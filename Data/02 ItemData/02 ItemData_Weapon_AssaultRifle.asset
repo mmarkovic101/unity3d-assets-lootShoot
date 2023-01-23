@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f39034d5a61654d44bd35536ca9bc8b6, type: 3}
+  m_Name: 02 ItemData_Weapon_AssaultRifle
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Assault Rifle
+  <Icon>k__BackingField: {fileID: 21300000, guid: 6964994fbad6f87428e6460b10ddd68d, type: 3}
+  <Stats>k__BackingField:
+  - {fileID: 11400000, guid: cde687de28d19cd43aa0a70232ff0c71, type: 2}
+  - {fileID: 11400000, guid: 675a8431de5585d4580be468be9da21d, type: 2}
+  - {fileID: 11400000, guid: 48f8b6513aea72e42899ea18669e6918, type: 2}
+  - {fileID: 11400000, guid: 2fcb325a1b17fb345aa5f735313e3357, type: 2}
+  - {fileID: 11400000, guid: 6a11184b80fa4a949896a4f8ba2328a1, type: 2}
+  - {fileID: 11400000, guid: 150333902cca85b4da284865fa70093d, type: 2}
+  - {fileID: 11400000, guid: ba2eafd873a0fbb4b931299a538e8376, type: 2}
+  - {fileID: 11400000, guid: a4af8fab935d1ed46b09d00d201998c2, type: 2}
+  - {fileID: 11400000, guid: 15c40f095dbcf3647a81d8f860ca3721, type: 2}
+  <WeaponType>k__BackingField: 2

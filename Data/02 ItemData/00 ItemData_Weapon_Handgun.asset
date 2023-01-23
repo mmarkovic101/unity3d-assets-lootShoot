@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f39034d5a61654d44bd35536ca9bc8b6, type: 3}
+  m_Name: 00 ItemData_Weapon_Handgun
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Handgun
+  <Icon>k__BackingField: {fileID: 21300000, guid: ab4c2126ac24d894fa2da7fd1a94e0c4, type: 3}
+  <Stats>k__BackingField:
+  - {fileID: 11400000, guid: f3db93e3e5a491c49ab5be4f29176f83, type: 2}
+  - {fileID: 11400000, guid: f891c7b09c8ee9547aada09f4e21765b, type: 2}
+  - {fileID: 11400000, guid: 1e1d1ab625534f5428e36560b1b41a0f, type: 2}
+  - {fileID: 11400000, guid: 9d51e00a984d1b544b4b9eda241f6ac3, type: 2}
+  - {fileID: 11400000, guid: 499b7cfda4478354da0d9671367ea68a, type: 2}
+  - {fileID: 11400000, guid: a0cc786987f287343997394472bf5967, type: 2}
+  - {fileID: 11400000, guid: 0f8d93d1ad606954fa0d82d4241a651e, type: 2}
+  - {fileID: 11400000, guid: 590676e0832eadf418f6cdac20093599, type: 2}
+  - {fileID: 11400000, guid: 3b98d89993e1dbd4cb266da6988e764b, type: 2}
+  <Type>k__BackingField: 0
